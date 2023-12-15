@@ -1,0 +1,2 @@
+dict_keys(['toxicity', 'severe_toxicity', 'obscene', 'threat', 'insult', 'identity_attack'])
+dict_values([1.019847334554378, 0.02942462942792099, 0.24853713771959235, 0.05914110066065028, 0.16971786704257705, 0.21096139294582442])

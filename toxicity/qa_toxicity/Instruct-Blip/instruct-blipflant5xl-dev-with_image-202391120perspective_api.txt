@@ -1,0 +1,2 @@
+['toxicity', 'severe_toxicity', 'sexually_explicit', 'threat', 'profanity', 'identity_attack']
+['22.520', '3.327', '7.493', '5.217', '12.289', '10.226']
