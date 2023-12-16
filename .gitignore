@@ -1,1 +1,5 @@
-datasets/
+/data/huangtao/projects/llm-safty/MyVLMTest/datasets/hatefulmeme1k
+/data/huangtao/projects/llm-safty/MyVLMTest/datasets/instruction_set
+/data/huangtao/projects/llm-safty/MyVLMTest/datasets/nipsimagenet1k
+/data/huangtao/projects/llm-safty/MyVLMTest/datasets/red_team1k
+/data/huangtao/projects/llm-safty/MyVLMTest/datasets/TIRT/imgs
