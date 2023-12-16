@@ -2,7 +2,6 @@ import os
 import json
 import numpy as np
 
-
 output_file = "/data/huangtao/projects/llm-safty/MyVLMTest/results/dataset/test_perspective_detoxify.jsonl"
 save_path1 = os.path.join(os.path.dirname(output_file),  os.path.basename(output_file).split(".")[0]+'_perspective_api.txt')
 assert not os.path.exists(save_path1),"File alreay exists"

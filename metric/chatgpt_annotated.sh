@@ -1,0 +1,1 @@
+python /data/huangtao/projects/llm-safty/MyVLMTest/results/all_results/chatgpt_annotated.py &

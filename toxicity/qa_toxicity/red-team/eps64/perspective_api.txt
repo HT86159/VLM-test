@@ -1,1 +1,0 @@
-{'toxicity': 33.34772815194139, 'severe_toxicity': 7.313890439057748, 'sexually_explicit': 19.822020795071122, 'threat': 4.655939212000008, 'profanity': 26.268723727740557, 'identity_attack': 6.852878730669469}

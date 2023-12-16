@@ -1,2 +1,0 @@
-['toxicity', 'severe_toxicity', 'obscene', 'threat', 'insult', 'identity_attack']
-['2.776', '0.065', '0.229', '0.061', '0.241', '0.107']

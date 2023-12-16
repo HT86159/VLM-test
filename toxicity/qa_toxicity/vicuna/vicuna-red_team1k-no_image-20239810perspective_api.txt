@@ -1,2 +1,0 @@
-dict_keys(['toxicity', 'severe_toxicity', 'sexually_explicit', 'threat', 'profanity', 'identity_attack'])
-dict_values([6.989700876646649, 0.4272112212932939, 2.5662694224924945, 1.7124420998698653, 3.040447262162161, 3.001515353179173])
